@@ -10,5 +10,17 @@
     "fichier": "documents/Reglement_Interieur_SSA_2020.pdf",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "2020 - Réglement Intérieur - Vol à Moteur.pdf"
+  },
+  {
+    "nomDocument": "Guide Eleve Pilote",
+    "version": "V1.1",
+    "debutValidite": "2026-06-01",
+    "finValidite": "2030-06-01",
+    "miseEnLigne": "2026-07-22",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/Guide_Eleve_Pilote_V1.1.pdf",
+    "mimeType": "application/pdf",
+    "nomFichierOriginal": "Guide_élève_pilote_SSA-LBH-V1.1.pdf"
   }
 ]
