@@ -58,5 +58,17 @@
     "fichier": "documents/MANEX-C_Part_C.pdf",
     "mimeType": "application/pdf",
     "nomFichierOriginal": "manex-ssa-lbh-part-c-v1.0-080514-AQEDPJ0XBkcRyO5x.pdf"
+  },
+  {
+    "nomDocument": "MANEX-D",
+    "version": "Part D",
+    "debutValidite": "2019-01-01",
+    "finValidite": "2026-12-31",
+    "miseEnLigne": "2026-08-19",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/MANEX-D_Part_D.pdf",
+    "mimeType": "application/pdf",
+    "nomFichierOriginal": "manex-ssa-lbh-part-d-v1.0-100514-YD0BQpOebxC2V5Wn.pdf"
   }
 ]
