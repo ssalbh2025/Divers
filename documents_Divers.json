@@ -31,9 +31,10 @@
     "miseEnLigne": "2026-08-19",
     "auteur": "DE GOURNAY",
     "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
-    "fichier": "documents/MANEX-A_Part_A.pdf",
+    "fichier": "documents/MANEX/MANEX-A_Part_A.pdf",
     "mimeType": "application/pdf",
-    "nomFichierOriginal": "manex-ssa-lbh-part-a-v1.0-010119-mePbqLBQKJTGMxpx-1.pdf"
+    "nomFichierOriginal": "manex-ssa-lbh-part-a-v1.0-010119-mePbqLBQKJTGMxpx-1.pdf",
+    "sousDossier": "MANEX"
   },
   {
     "nomDocument": "MANEX-B",
