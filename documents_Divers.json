@@ -74,5 +74,18 @@
     "mimeType": "application/pdf",
     "nomFichierOriginal": "manex-ssa-lbh-part-d-v1.0-100514-YD0BQpOebxC2V5Wn.pdf",
     "sousDossier": "MANEX"
+  },
+  {
+    "nomDocument": "Guide Pilote VFR",
+    "version": "2026-2027",
+    "debutValidite": "2026-10-01",
+    "finValidite": "2027-10-01",
+    "miseEnLigne": "2026-10-07",
+    "auteur": "DE GOURNAY",
+    "uid": "pHmLDUCTUHRF810UECwG3c0hZsI3",
+    "fichier": "documents/Guide_Pilote_VFR_2026-2027.pdf",
+    "sousDossier": "",
+    "mimeType": "application/pdf",
+    "nomFichierOriginal": "MemoPiloteVFR 2026-2027.pdf"
   }
 ]
